@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "aijsondbjweb": {
+      "script-ref": "https://github.com/awenzel67/aijsondb-java/releases/download/aijsonbweb/aijsondbweb-0.0.3.jar",
+      "description": "Run aijsondbjweb"
+    }
+  }
+}
