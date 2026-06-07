@@ -1,7 +1,7 @@
 {
   "aliases": {
     "aijsondbjweb": {
-      "script-ref": "https://github.com/awenzel67/aijsondb-java/releases/download/aijsonbweb/aijsondbweb-0.0.4.jar",
+      "script-ref": "https://github.com/awenzel67/aijsondb-java/releases/download/v0.0.4/aijsondbweb-0.0.4.jar",
       "description": "Run aijsondbjweb"
     }
   }
